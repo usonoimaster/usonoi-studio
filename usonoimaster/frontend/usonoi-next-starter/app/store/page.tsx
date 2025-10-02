@@ -1,0 +1,1 @@
+export default function Page(){return (<section><h1 className='text-2xl font-semibold'>Store / Marketplace</h1><p className='mt-2 text-neutral-600'>Espacio para vender equipos/accesorios y asesoramiento.</p></section>);}

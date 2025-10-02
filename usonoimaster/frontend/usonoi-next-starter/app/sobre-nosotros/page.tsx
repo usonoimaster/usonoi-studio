@@ -1,0 +1,1 @@
+export default function Page(){return (<section className='space-y-6'><h1 className='text-2xl font-semibold'>Sobre Nosotros</h1><p>Usonoi es una empresa no-code de drones, 3D e integración web con foco ambiental.</p></section>);}

@@ -1,0 +1,1 @@
+export default function Page(){return (<article className='prose max-w-none'><h1>Metodología PPA</h1><ol><li><strong>Planificación</strong>: briefing, permisos y seguridad.</li><li><strong>Procesamiento</strong>: WebODM/Agisoft, QGIS y pipeline 3D.</li><li><strong>Análisis</strong>: reportes y entregables.</li></ol></article>);}
