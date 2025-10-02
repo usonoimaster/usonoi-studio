@@ -21,6 +21,7 @@ npm run dev
 - USO_REC (`/servicios/uso-rec`)
 - USO_TEC (`/servicios/uso-tec`)
 - USO_WEB (`/servicios/uso-web`)
+- USO_3D  (`/servicios/uso-3d`)
 
 Cada página trae contenido base editable y componentes reutilizables (Navbar, Footer, CTA).
 
